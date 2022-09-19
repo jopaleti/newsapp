@@ -5,7 +5,6 @@ import {
 	Entertainment,
 	Layout,
 	Opinion,
-	RightBar,
 	SelectCard,
 	SingleRow,
 	Witness,

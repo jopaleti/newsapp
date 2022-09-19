@@ -1,11 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import { logo } from "../../assets";
 import "./navbar.scss";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import { useLocation } from "react-router-dom";
 
 function Navbar() {
-	const [active, setActive] = useState("active");
 	const location = useLocation();
 	return (
 		<div className="navBar">

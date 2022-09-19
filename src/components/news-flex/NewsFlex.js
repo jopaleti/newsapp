@@ -1,5 +1,5 @@
 import React from "react";
-import { david, NewImage } from "../../assets";
+import { david } from "../../assets";
 import ImageCard from "../image-card/ImageCard";
 import "./news-flex.scss";
 
